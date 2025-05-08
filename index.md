@@ -11,47 +11,27 @@ Neuroscience student at the University of Maryland
 </div>
 
 
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2021-2025`
+__The University of Maryland, Neuroscience.__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
+`2025 - Present`
+__Penn State College of Medicine, PhD in Neuroscience__
 
 
 
 ## Awards
 
-`2012`
-President, *Royal Society*, London, UK
+`2023-present`
+Dean's List, University of Maryland
 
-Associate, *French Academy of Science*, Paris, France
+Honors, *Biology Honors Program*, University of Maryland
 
+Presidential Fellowship, *PhD in Neuroscience*, Penn State College of Medicine
 
-
-## Publications
+## Presentation
 
 <!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
 
